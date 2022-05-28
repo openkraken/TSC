@@ -25,3 +25,8 @@ Listed below is the current list of TSC members:
 ## 会议纪要/Minute of meetings
 
 - https://github.com/openkraken/TSC/tree/main/meetings
+
+
+## 钉钉交流群
+
+![image](https://user-images.githubusercontent.com/69608605/170818778-59d934ce-388d-4c44-8f73-37a49221520f.png)
