@@ -14,6 +14,7 @@ Listed below is the current list of TSC members:
    - [XGHeaven](https://github.com/XGHeaven)
    - [yifei8](https://github.com/yifei8)
    - [xuzhongpeng](https://github.com/xuzhongpeng)
+   - [dancancer](https://github.com/dancancer)
    - [crazyming9528](https://github.com/crazyming9528)
    - [tylorvan](https://github.com/tylorvan)
    - [cnryb](https://github.com/cnryb)
