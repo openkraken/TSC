@@ -13,14 +13,16 @@ Listed below is the current list of TSC members:
    - [pba-cra](https://github.com/pba-cra)
    - [XGHeaven](https://github.com/XGHeaven)
    - [yifei8](https://github.com/yifei8)
-   - [wssgcg1213](https://github.com/wssgcg1213)
-   - [yuanyan](https://github.com/yuanyan)
-   - [answershuto](https://github.com/answershuto)
-   - [temper357](https://github.com/temper357)
+   - [xuzhongpeng](https://github.com/xuzhongpeng)
+   - [crazyming9528](https://github.com/crazyming9528)
    - [tylorvan](https://github.com/tylorvan)
    - [cnryb](https://github.com/cnryb)
    - [anjihang](https://github.com/anjihang)
    - [airingursb](https://github.com/airingursb)
+   - [wssgcg1213](https://github.com/wssgcg1213)
+   - [yuanyan](https://github.com/yuanyan)
+   - [answershuto](https://github.com/answershuto)
+   - [temper357](https://github.com/temper357)
 
 > 根据治理规则，以上成员名单非固定席位，因长期未参与会议或新增提名会随时发生变动。
 
